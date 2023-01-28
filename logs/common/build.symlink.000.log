@@ -1,0 +1,5 @@
+Symlinking /home/user/catkin_ws/devel/lib/libgazebo_mimic_joint_plugin.so
+Symlinking /home/user/catkin_ws/devel/lib/libgazebo_disable_link_plugin.so
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/common.pc
+Symlinking /home/user/catkin_ws/devel/share/common/cmake/commonConfig-version.cmake
+Symlinking /home/user/catkin_ws/devel/share/common/cmake/commonConfig.cmake

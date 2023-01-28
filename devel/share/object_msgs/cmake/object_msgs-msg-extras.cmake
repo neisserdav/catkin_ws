@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/user/catkin_ws/src/Gazebo_utils/general-message-pkgs/object_msgs/msg/Object.msg;/home/user/catkin_ws/src/Gazebo_utils/general-message-pkgs/object_msgs/msg/ObjectPose.msg")
+set(object_msgs_SERVICE_FILES "/home/user/catkin_ws/src/Gazebo_utils/general-message-pkgs/object_msgs/srv/ObjectInfo.srv;/home/user/catkin_ws/src/Gazebo_utils/general-message-pkgs/object_msgs/srv/RegisterObject.srv")

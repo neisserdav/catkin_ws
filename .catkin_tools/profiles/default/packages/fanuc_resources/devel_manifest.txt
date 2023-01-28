@@ -1,0 +1,5 @@
+fanuc/fanuc_resources
+/home/user/catkin_ws/devel/.private/fanuc_resources/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/fanuc_resources/lib/pkgconfig/fanuc_resources.pc /home/user/catkin_ws/devel/lib/pkgconfig/fanuc_resources.pc
+/home/user/catkin_ws/devel/.private/fanuc_resources/share/fanuc_resources/cmake/fanuc_resourcesConfig.cmake /home/user/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig.cmake
+/home/user/catkin_ws/devel/.private/fanuc_resources/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake /home/user/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake

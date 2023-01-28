@@ -1,0 +1,5 @@
+bazu_moveit_config
+/home/user/catkin_ws/devel/.private/bazu_moveit_config/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/bazu_moveit_config/lib/pkgconfig/bazu_moveit_config.pc /home/user/catkin_ws/devel/lib/pkgconfig/bazu_moveit_config.pc
+/home/user/catkin_ws/devel/.private/bazu_moveit_config/share/bazu_moveit_config/cmake/bazu_moveit_configConfig.cmake /home/user/catkin_ws/devel/share/bazu_moveit_config/cmake/bazu_moveit_configConfig.cmake
+/home/user/catkin_ws/devel/.private/bazu_moveit_config/share/bazu_moveit_config/cmake/bazu_moveit_configConfig-version.cmake /home/user/catkin_ws/devel/share/bazu_moveit_config/cmake/bazu_moveit_configConfig-version.cmake

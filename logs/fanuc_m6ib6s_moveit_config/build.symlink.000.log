@@ -1,0 +1,3 @@
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/fanuc_m6ib6s_moveit_config.pc
+Symlinking /home/user/catkin_ws/devel/share/fanuc_m6ib6s_moveit_config/cmake/fanuc_m6ib6s_moveit_configConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/fanuc_m6ib6s_moveit_config/cmake/fanuc_m6ib6s_moveit_configConfig-version.cmake

@@ -1,0 +1,7 @@
+Symlinking /home/user/catkin_ws/devel/lib/fanuc_driver/robot_state
+Symlinking /home/user/catkin_ws/devel/lib/fanuc_driver/motion_streaming_interface
+Symlinking /home/user/catkin_ws/devel/lib/fanuc_driver/robot_state_bswap
+Symlinking /home/user/catkin_ws/devel/lib/fanuc_driver/motion_streaming_interface_bswap
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/fanuc_driver.pc
+Symlinking /home/user/catkin_ws/devel/share/fanuc_driver/cmake/fanuc_driverConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/fanuc_driver/cmake/fanuc_driverConfig-version.cmake

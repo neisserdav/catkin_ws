@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/dsr_control/dsr_control_node
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/dsr_control.pc
+Symlinking /home/user/catkin_ws/devel/share/dsr_control/cmake/dsr_controlConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/dsr_control/cmake/dsr_controlConfig-version.cmake

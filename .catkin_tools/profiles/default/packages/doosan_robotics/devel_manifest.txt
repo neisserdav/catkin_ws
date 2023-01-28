@@ -1,0 +1,2 @@
+doosan-robot/doosan_robotics
+/home/user/catkin_ws/devel/.private/doosan_robotics/cmake.lock /home/user/catkin_ws/devel/./cmake.lock

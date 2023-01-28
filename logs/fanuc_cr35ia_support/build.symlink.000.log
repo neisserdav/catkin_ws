@@ -1,0 +1,3 @@
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/fanuc_cr35ia_support.pc
+Symlinking /home/user/catkin_ws/devel/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig-version.cmake

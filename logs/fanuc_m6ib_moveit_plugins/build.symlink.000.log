@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_ws/devel/lib/libfanuc_m6ib_manipulator_moveit_ikfast_plugin.so
+Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/fanuc_m6ib_moveit_plugins.pc
+Symlinking /home/user/catkin_ws/devel/share/fanuc_m6ib_moveit_plugins/cmake/fanuc_m6ib_moveit_pluginsConfig.cmake
+Symlinking /home/user/catkin_ws/devel/share/fanuc_m6ib_moveit_plugins/cmake/fanuc_m6ib_moveit_pluginsConfig-version.cmake

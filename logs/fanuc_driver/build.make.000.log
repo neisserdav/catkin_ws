@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target fanuc_driver_robot_state_bswap[0m
+[  8%] [32mBuilding CXX object CMakeFiles/fanuc_driver_robot_state_bswap.dir/src/fanuc_robot_state_node.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/fanuc_driver_robot_state_bswap.dir/src/fanuc_utils.cpp.o[0m
+[ 25%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/fanuc_driver/lib/fanuc_driver/robot_state_bswap[0m
+[ 25%] Built target fanuc_driver_robot_state_bswap
+[35m[1mScanning dependencies of target fanuc_driver_robot_state[0m
+[35m[1mScanning dependencies of target fanuc_driver_motion_streaming_interface_bswap[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/fanuc_driver_robot_state.dir/src/fanuc_robot_state_node.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/fanuc_driver_motion_streaming_interface_bswap.dir/src/fanuc_joint_streamer_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/fanuc_driver_robot_state.dir/src/fanuc_utils.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/fanuc_driver_motion_streaming_interface_bswap.dir/src/fanuc_utils.cpp.o[0m
+[35m[1mScanning dependencies of target fanuc_driver_motion_streaming_interface[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/fanuc_driver_motion_streaming_interface.dir/src/fanuc_joint_streamer_node.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/fanuc_driver/lib/fanuc_driver/robot_state[0m
+[ 75%] Built target fanuc_driver_robot_state
+[ 83%] [32mBuilding CXX object CMakeFiles/fanuc_driver_motion_streaming_interface.dir/src/fanuc_utils.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/fanuc_driver/lib/fanuc_driver/motion_streaming_interface_bswap[0m
+[ 91%] Built target fanuc_driver_motion_streaming_interface_bswap
+[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/fanuc_driver/lib/fanuc_driver/motion_streaming_interface[0m
+[100%] Built target fanuc_driver_motion_streaming_interface

@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: kr10_description
+Description: Description of kr10_description
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
